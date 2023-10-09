@@ -1,0 +1,23 @@
+{
+    "name": "mustafa-fares/design-patterns",
+    "description": "code examples for design patterns",
+    "autoload": {
+        "psr-4": {
+            "MustafaFares\\DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mustafa Fares",
+            "email": "mustaphafares445@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "10.4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Creational\\": "Creational"
+        }
+    }
+}
